@@ -26,7 +26,8 @@
 
 
 ### Posture Detection
-- A live sensing GUI for an Infineon 60 GHz radar, measured by presence and three posture states (Standing, Sitting, Sleeping) updating in real time, by developing Python/NumPy/SciPy signal processing (range FFT, moving averages, peak detection) and a Tkinter interface.
+- I implemented a live sensing GUI for an Infineon 60 GHz radar, measured by presence and three posture states (Standing, Sitting, Sleeping) updating in real time, by developing Python/NumPy/SciPy signal processing (range FFT, moving averages, peak detection) and a Tkinter interface.
+- The Python file PythonInfenion/BGT60TR13C/Posture_Detection_Usecase.py can be run individually as it has its own GUI integrated.
   
 <img width="2036" height="1088" alt="Standing" src="https://github.com/user-attachments/assets/af48d91b-30ab-4804-a832-9d536290896f" />
 
