@@ -23,3 +23,13 @@
 - Start by connecting the Sensor to the pc.
 - Then run the **main_gui.py**.
 - The Fall Detection usecase requires a different sensor configuration and has to be set in the **radar_data_acquisition.py**
+
+
+### Posture Detection
+- A live sensing GUI for an Infineon 60 GHz radar, measured by presence and three posture states (Standing, Sitting, Sleeping) updating in real time, by developing Python/NumPy/SciPy signal processing (range FFT, moving averages, peak detection) and a Tkinter interface.
+  
+<img width="2036" height="1088" alt="Standing" src="https://github.com/user-attachments/assets/af48d91b-30ab-4804-a832-9d536290896f" />
+
+<img width="2038" height="1082" alt="Sitting" src="https://github.com/user-attachments/assets/8c2744ac-c7c7-4207-9bb0-be5a77fa3da1" />
+
+<img width="2032" height="1054" alt="Sleeping" src="https://github.com/user-attachments/assets/ddebdd34-7706-4f30-bd4d-90214a8d7cb4" />
